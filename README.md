@@ -54,3 +54,8 @@ cargo test
 ## License
 
 MIT
+
+## Handsoff notes
+
+<!-- handsoff-issue-1261 -->
+- #1261: [backend-2fa] Add webhook signature key versioning
